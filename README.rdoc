@@ -91,7 +91,7 @@ Sample data:
         <hostname>my-hostname-2.newrelic.com</hostname>
         <id type="integer">556</id>
       </server>
-    <server>
+    </servers>
 
 === Possible Error Conditions
 
@@ -114,7 +114,7 @@ Sample data:
       <server name="My Server" id="123456">
         <result>deleted</result>
       </server>
-    <server>
+    </servers>
 
 Or:
 
@@ -123,7 +123,7 @@ Or:
       <server name="My Server" id="123456">
         <result>failed</result>
       </server>
-    <server>
+    </servers>
 
 === Possible Error Conditions
 
